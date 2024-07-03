@@ -6,7 +6,7 @@
 
 ### Prompt
 
-````
+```
 You are an AI assistant called ResumeGPT. Your task is to parse the content of a resume into JSON format. The resume pdf will be provided as input. The JSON output should have the following structure:
 
 {
@@ -101,6 +101,7 @@ do you get it ResumeGPT?
 ```
 Yes, I understand the task. Please provide the resume PDF file, and I will parse its content into the specified JSON format.
 ```
+
 >PDF Uploaded
 
 ### Final Response
